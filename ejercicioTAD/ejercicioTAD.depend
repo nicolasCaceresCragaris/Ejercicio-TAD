@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1677179886 source:c:\users\cacer\onedrive\escritorio\c++ guia2\ejerciciotad\tad.cpp
+	"ejercicioTAD.h"
+	<iostream>
+	<math.h>
+
+1677179886 c:\users\cacer\onedrive\escritorio\c++ guia2\ejerciciotad\ejerciciotad.h
+
+1677080823 source:c:\users\cacer\onedrive\escritorio\c++ guia2\ejerciciotad\main.cpp
+	<iostream>
+	"ejercicioTAD.h"
+
